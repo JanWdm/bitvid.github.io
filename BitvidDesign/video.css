@@ -1,0 +1,105 @@
+.menu-container {
+    float: right;
+}
+
+.view-count {
+    float: left;
+    font-size: 20px;
+}
+
+
+.Page {
+    max-width:1080px;
+    width: 100%;
+    padding-top: 24px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Video {
+    width: 100%;
+    position: relative;
+}
+
+.Video-Control {
+    font-size: 13px;
+    margin-top: 25px;
+}
+
+
+
+.Video-Title {
+    font-size: 30px;
+    font-weight: bold;
+    float: left;
+    max-width: 900px;
+}
+
+.Video-BaseInfo {
+    margin-top: 20px;
+}
+
+.Video-Creator {
+    float: right;
+}
+
+.Video-Stats {
+    clear: both;
+    margin-bottom: 40px;
+}
+
+.Video-Previous{
+    float: left;
+    width: 450px;
+}
+
+.Video-Next {
+    float: right;
+    width: 450px;
+}
+
+#more {
+    display: none;
+}
+
+.video-likes {
+    float: left;
+    margin-right: 20px;
+}
+
+.video-dislikes {
+    float: right;
+}
+
+.Video-Description {
+    clear: both;
+
+}
+
+.VideoControlImage {
+    float: left;
+    width: 169px;
+    margin-right: 10px;
+}
+
+.medText {
+    font-size: 17px;
+}
+
+.Video-Control-Title {
+    font-size: 17px;
+   
+}
+
+.Video-Control-Creator {
+    font-size: 14px;
+}
+
+
+.Video-Control-Views {
+    font-size: 14px;
+}
+
+.Video-Control-Info {
+    widows: 200px;
+}
